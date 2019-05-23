@@ -1,0 +1,4 @@
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Release\ResolveAssemblyReference.cache
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Release\flappybird.Form1.resources
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Release\flappybird.Properties.Resources.resources
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Release\flappybird.csproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\bin\Debug\flappybird.exe
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\bin\Debug\flappybird.pdb
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Debug\flappybird.Form1.resources
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Debug\flappybird.csproj.GenerateResource.Cache
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Debug\flappybird.exe
+C:\Users\deaco\AppData\Local\Temporary Projects\flappybird\obj\Debug\flappybird.pdb
+E:\Scoala\flappybird\flappybird\obj\Debug\flappybird.exe
+E:\Scoala\flappybird\flappybird\obj\Debug\flappybird.pdb
+E:\Scoala\flappybird\flappybird\bin\Debug\flappybird.exe
+E:\Scoala\flappybird\flappybird\bin\Debug\flappybird.pdb
+E:\Scoala\flappybird\flappybird\obj\Debug\ResolveAssemblyReference.cache
+E:\Scoala\flappybird\flappybird\obj\Debug\flappybird.Form1.resources
+E:\Scoala\flappybird\flappybird\obj\Debug\flappybird.Properties.Resources.resources
+E:\Scoala\flappybird\flappybird\obj\Debug\flappybird.csproj.GenerateResource.Cache
